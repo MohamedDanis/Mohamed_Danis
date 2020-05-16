@@ -22,7 +22,9 @@ h5,
 h6 {
   color: #2d3142;
 }
+.sm{
 
+}
 a {
   color: #1e1e1e;
   transition: all 0.5s ease-in-out;
@@ -501,7 +503,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #a1d2ce;
+  color: #4f5d75;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
